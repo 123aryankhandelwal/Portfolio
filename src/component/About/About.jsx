@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ME from "../../Asset/ak1.jpg";
+import ME from "../../Asset/jpg1.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { RiGitRepositoryLine } from "react-icons/ri";
@@ -28,11 +28,11 @@ const About = () => {
               </div>
             </a>
 
-            <a href="#Projects">
+            <a href="#portfolio">
               <div className="about_card">
                 <RiGitRepositoryLine className="about_icon" />
                 <h5>Projects</h5>
-                <small>likhna hai</small>
+                <small>Refer portfolio</small>
               </div>
             </a>
 
@@ -40,12 +40,13 @@ const About = () => {
               <div className="about_card">
                 <FiUsers className="about_icon" />
                 <h5>contacts</h5>
-                <small>likhna hai</small>
+                <small>Contact me</small>
               </div>
             </a>
           </div>
           <p>
-            contetnt to write asap
+            Aspiring Software Engineer<br></br>
+            Explorer 
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

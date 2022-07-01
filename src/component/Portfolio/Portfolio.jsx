@@ -19,15 +19,15 @@ const data = [
     id: 2,
     image: img2,
     title: "BLOCKaro",
-    github: "https://github.com/123aryankhandelwal/Blockaro",
-    demo: "https://github.com/123aryankhandelwal/FingerSpell-ASL/raw/main/Images/1.gif",
+    github: "https://github.com/BLOCKaro/BLOCKaro",
+    demo: "https://github.com/BLOCKaro/BLOCKaro",
   },
   {
     id: 3,
     image: img3,
     title: "FingerSpell-ASL",
     github: "https://github.com/123aryankhandelwal/FingerSpell-ASL.git",
-    demo: "https://dribbble.com/shots/18402931-Pizza-Rat",
+    demo: "https://github.com/123aryankhandelwal/FingerSpell-ASL/raw/main/Images/1.gif",
   },
   {
     id: 4,
